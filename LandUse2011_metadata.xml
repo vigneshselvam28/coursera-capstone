@@ -1,0 +1,165 @@
+﻿<MD_Metadata xmlns="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gml="http://www.opengis.net/gml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <language>
+    <LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+  </language>
+  <characterSet>
+    <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+  </characterSet>
+  <hierarchyLevel>
+    <MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+  </hierarchyLevel>
+  <hierarchyLevelName>
+    <gco:CharacterString>dataset</gco:CharacterString>
+  </hierarchyLevelName>
+  <contact gco:nilReason="missing" />
+  <dateStamp>
+    <gco:Date>2015-06-09</gco:Date>
+  </dateStamp>
+  <metadataStandardName>
+    <gco:CharacterString>INSPIRE Metadata Implementing Rules: Technical Guidelines based on EN ISO 19115 and EN ISO 19119</gco:CharacterString>
+  </metadataStandardName>
+  <metadataStandardVersion>
+    <gco:CharacterString>V. 1.2</gco:CharacterString>
+  </metadataStandardVersion>
+  <spatialRepresentationInfo>
+    <MD_VectorSpatialRepresentation>
+      <topologyLevel>
+        <MD_TopologyLevelCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_TopologyLevelCode" codeListValue="geometryOnly" codeSpace="ISOTC211/19115">geometryOnly</MD_TopologyLevelCode>
+      </topologyLevel>
+      <geometricObjects>
+        <MD_GeometricObjects>
+          <geometricObjectType>
+            <MD_GeometricObjectTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_GeometricObjectTypeCode" codeListValue="composite" codeSpace="ISOTC211/19115">composite</MD_GeometricObjectTypeCode>
+          </geometricObjectType>
+          <geometricObjectCount>
+            <gco:Integer>55246</gco:Integer>
+          </geometricObjectCount>
+        </MD_GeometricObjects>
+      </geometricObjects>
+    </MD_VectorSpatialRepresentation>
+  </spatialRepresentationInfo>
+  <referenceSystemInfo>
+    <MD_ReferenceSystem>
+      <referenceSystemIdentifier>
+        <RS_Identifier>
+          <code>
+            <gco:CharacterString>26910</gco:CharacterString>
+          </code>
+          <codeSpace>
+            <gco:CharacterString>EPSG</gco:CharacterString>
+          </codeSpace>
+          <version>
+            <gco:CharacterString>8.2.6</gco:CharacterString>
+          </version>
+        </RS_Identifier>
+      </referenceSystemIdentifier>
+    </MD_ReferenceSystem>
+  </referenceSystemInfo>
+  <identificationInfo>
+    <MD_DataIdentification>
+      <citation>
+        <CI_Citation>
+          <title>
+            <gco:CharacterString>2011 Generalized Land Use</gco:CharacterString>
+          </title>
+          <date gco:nilReason="missing" />
+          <presentationForm>
+            <CI_PresentationFormCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapDigital" codeSpace="ISOTC211/19115">mapDigital</CI_PresentationFormCode>
+          </presentationForm>
+        </CI_Citation>
+      </citation>
+      <abstract>
+        <gco:CharacterString>The land use classifications are described as follows:Agriculture (A500): includes actively farmed lands that are cultivated or contain agricultural production facilities such as greenhouses and barns plus inactive and vacant lands in the provincial Agricultural Land Reserve (ALR) that do not have a recreational, industrial, commercial, institutional, and transportation, communication and utility land use. Also includes several properties that are cultivated or contain agricultural production facilities with a location outside the ALR. Many of these latter agriculture properties are anticipated to be redeveloped for urban use in the near future.Airport/Airstrip (S650): includes lands used for Vancouver International Airport, local airports and rural air strips. Cemetery (S420): includes all lands set aside for cemeteries. Commercial (S200): includes retail, office and personal service, including hotels and motels.Harvesting and Research (F100): includes forested lands actively harvested or devoted to research uses.Institutional (S400): includes school, universities and community colleges (excluding their playing fields), hospitals, correctional facilities, government buildings, and churches. Industrial (S300): includes processing, manufacturing, warehousing and wholesaling activities. Additional industrial land activities are captured in the Ports and Airport/Airstrip land use categories.Industrial – Extractive (M300): includes uses such as peat extraction, gravel pits, temporary gravel storage and rock quarries. Residential - Mobile Home Park (S100):includes single detached dwellings located outside the ALR but within Metro Vancouver’s Regional Growth Strategy designated “Rural Area’. Residential – Rural (S120):: includes detached and duplexes dwellings within the Urban Containment Boundary that were not connected and serviced by sewers and located outside Metro Vancouver’s ‘existing urban area’ in 2011 plus residential dwellings located outside the ALR but within Metro Vancouver’s Regional Growth Strategy designated “Rural Area’. Residential - Single Detached and Duplex (S110): includes detached and duplexes dwellings and mobile home parks that are serviced by sewers and located within Metro Vancouver’s Regional Growth Strategy designated “Urban Containment Boundary’.Residential – Townhouse (S131): includes row-housing and stacked attached structure types. Residential - Low-rise Apartment (S130): includes apartment structures less than 5 stories. Additional low-rise apartments are captured in the Mixed Residential Commercial - Low-rise Apartment land use category.Residential - High-rise Apartment (S135): includes apartments with 5 stories or more. Additional high-rise apartments are captured in the Mixed Residential Commercial - High-rise Apartment land use category.Mixed Residential Commercial - Low-rise Apartment (S230): includes lands permitting up to several floors of commercial use and residential housing when combined is less than five storeys. Mixed Residential Commercial - High-rise Apartment (S235): includes lands permitting up to several floors of commercial use and residential housing when combined is five or more storeys. Residential - Institutional and Non-Market Housing (S410): includes group homes, nursing homes, senior care facilities and other institutional and non-market housing.Port Metro Vancouver (S600): includes all land based activities occurring on the Port of Metro Vancouver lands. Rail, Rapid Transit, Other Transportation, Utility and Communications (S700):includes uses such as ferry terminals, rail yards, rail right-of-way lines, electrical sub-stations, liquid waste treatment facilities, landfill sites, public works yards plus rapid transit stations and right-of-way corridors. Recreation, Open Space and Protected Natural Areas (R100): includes local, regional and provincial parks (both inside and outside the provincial Agricultural Land Reserve), ecological reserves and wildlife management areas, school playing fields, camping parks, commercial RV parks, some undeveloped street allowance/road right-of-way, neighbourhood walk paths (not sidewalks) and recreational facilities such as golf courses, ski areas, exhibition grounds, club facilities and community centres. Road Right-of-Way (S500): includes all developed roads local, regional and provincialProtected Watershed (W400):includes Metro Vancouver watersheds.Undeveloped and Unclassified (U100):includes lands outside the provincial Agricultural Land Reserve with no visible development, vacant urban land, and forested or vegetated areas not identified as recreation, open space and protected natural areas or agriculture.Water (R200): includes major water bodies consisting of inlets, large lakes and rivers and other significant water bodies that are excluded from the regional land base.</gco:CharacterString>
+      </abstract>
+      <purpose>
+        <gco:CharacterString>Metro Vancouver’s 2011 Generalized Land Use has no official status.  It is neither a zoning nor an Official Community Plan map but rather a serves as a ‘regional reference map’ that depicts land activities existing in fall 2011.  The map is intended to provide a consistent interpretation of on-the-ground land development activity across the Metro Vancouver’s member municipalities, electoral area and First Nation.  Based on municipal staff guidance, aerial photograph interpretation plus other land data information including the British Columbia Assessment Authority, land use activities were categorized into one of the twenty-four classifications, defined in the Description section.
+
+Metro Vancouver’s 2011 Generalized Land Use map was compiled using a consistent interpretation of all available information. Every effort was made to depict land use activities accurately and consistently across all of the region’s municipalities. Land use classifications were assigned at the municipal cadastre geography wherein each cadastre lot was assigned one single land use classification. Exceptions to this rule occurred in instances where cadastre lots clearly have more than one discrete land use activity which did not fit into one single classification thus requiring the cadastre lot to be split to accommodate multiple land use polygons (e.g. school property – where buildings were classified as ‘institutional’ and playing fields as ‘recreational’).
+
+</gco:CharacterString>
+      </purpose>
+      <credit>
+        <gco:CharacterString>Metro Vancouver staff Bob Denboer, Jason Hrubizna, Rob Ostwald</gco:CharacterString>
+      </credit>
+      <descriptiveKeywords>
+        <MD_Keywords>
+          <keyword>
+            <gco:CharacterString>Downloadable Data</gco:CharacterString>
+          </keyword>
+          <thesaurusName uuidref="723f6998-058e-11dc-8314-0800200c9a66" />
+        </MD_Keywords>
+      </descriptiveKeywords>
+      <descriptiveKeywords>
+        <MD_Keywords>
+          <keyword>
+            <gco:CharacterString>Landuse 2011</gco:CharacterString>
+          </keyword>
+          <keyword>
+            <gco:CharacterString>Land</gco:CharacterString>
+          </keyword>
+        </MD_Keywords>
+      </descriptiveKeywords>
+      <resourceConstraints>
+        <MD_Constraints>
+          <useLimitation>
+            <gco:CharacterString>Metro Vancouver’s 2011 Generalized Land Use has no official status and is publically shared for illustrative and regional reference purposes on an “as is” basis. Metro Vancouver makes no claims, warranties, representations or conditions with respect to its accuracy including any warranties, representations or conditions that the data are accurate, current, complete, free from error or defect, or fit for any particular use or purpose. The final 2011 Generalized Land Use map has neither been reviewed nor endorsed by its member municipalities.</gco:CharacterString>
+          </useLimitation>
+        </MD_Constraints>
+      </resourceConstraints>
+      <resourceConstraints>
+        <MD_LegalConstraints>
+          <otherConstraints>
+            <gco:CharacterString>no limitations on public access</gco:CharacterString>
+          </otherConstraints>
+        </MD_LegalConstraints>
+      </resourceConstraints>
+      <spatialRepresentationType>
+        <MD_SpatialRepresentationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector" codeSpace="ISOTC211/19115">vector</MD_SpatialRepresentationTypeCode>
+      </spatialRepresentationType>
+      <language>
+        <LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+      </language>
+      <characterSet>
+        <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+      </characterSet>
+      <environmentDescription>
+        <gco:CharacterString>Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.2.1.3497</gco:CharacterString>
+      </environmentDescription>
+      <extent>
+        <EX_Extent>
+          <geographicElement>
+            <EX_GeographicBoundingBox>
+              <extentTypeCode>
+                <gco:Boolean>true</gco:Boolean>
+              </extentTypeCode>
+              <westBoundLongitude>
+                <gco:Decimal>-123.71837</gco:Decimal>
+              </westBoundLongitude>
+              <eastBoundLongitude>
+                <gco:Decimal>-122.403596</gco:Decimal>
+              </eastBoundLongitude>
+              <southBoundLatitude>
+                <gco:Decimal>48.999902</gco:Decimal>
+              </southBoundLatitude>
+              <northBoundLatitude>
+                <gco:Decimal>49.570242</gco:Decimal>
+              </northBoundLatitude>
+            </EX_GeographicBoundingBox>
+          </geographicElement>
+        </EX_Extent>
+      </extent>
+    </MD_DataIdentification>
+  </identificationInfo>
+  <distributionInfo>
+    <MD_Distribution>
+      <distributionFormat>
+        <MD_Format>
+          <name>
+            <gco:CharacterString>SDE Feature Class</gco:CharacterString>
+          </name>
+          <version gco:nilReason="missing" />
+        </MD_Format>
+      </distributionFormat>
+    </MD_Distribution>
+  </distributionInfo>
+</MD_Metadata>
